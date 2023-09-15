@@ -19,7 +19,7 @@ curl -sSL https://install.python-poetry.org | python -
 Then, clone the repository and navigate to the project folder:
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/bunyaminergen/Prompt_Engineering.git
 cd your_project_folder
 ```
 
