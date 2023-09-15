@@ -53,12 +53,12 @@ python main.py
 
 ### Article Querying
 
-The script `QandA.py` reads the generated Word document and allows you to query it using a user-provided question. The GPT-3.5-turbo model processes the question and the article to generate an answer.
+The script `Q&A.py` reads the generated Word document and allows you to query it using a user-provided question. The GPT-3.5-turbo model processes the question and the article to generate an answer.
 
 Run the script to query the generated article:
 
 ```bash
-python QandA.py
+python Q&A.py
 ```
 
 ## Files
