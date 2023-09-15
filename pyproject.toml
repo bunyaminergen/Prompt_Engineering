@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "89 - prompt-engineering"
+version = "0.1.0"
+description = ""
+authors = ["Bünyamin Ergen <bunyaminergen@yahoo.com.tr>"]
+readme = "README.md"
+packages = [{include = "89 _ prompt_engineering"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+openai = "^0.28.0"
+python-docx = "^0.8.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
